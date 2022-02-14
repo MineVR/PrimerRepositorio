@@ -1,0 +1,57 @@
+#pro {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+
+.margn {
+    padding-left: 150px;
+    padding-top: 200px;
+}
+
+.butt {
+    border-style:double;
+    border-color: var(--dark-blue);
+    background-color: var(--dark-blue);
+    font-size: large;
+    color: white;
+    width: 180px;
+    height: 40px;
+}
+
+.but {
+    background-color: var(--dark-blue)
+       
+}
+
+.butt2 {
+    border-radius: 5px;
+    background-color: transparent;
+    height: 30px;
+    flex-direction: row;
+    border-color: var(--dark-blue);
+    border-style: solid;
+    color: var(--dark-blue);
+    font-size: xx-small;
+}
+
+.but2 {
+    border-radius: 5px;
+    background-color: var(--dark-blue);
+    height: 30px;
+    flex-direction: row;
+    border-color: var(--dark-blue);
+    border-style: solid;
+    color: white;
+    font-size: xx-small;
+}
+
+.p {
+    margin-right: 100px;
+}
+
+.album {
+    padding-top: 200px;
+    padding-right: 150px;
+}
+

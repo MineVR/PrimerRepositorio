@@ -1,0 +1,91 @@
+#about-me{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+h1{
+    color: var(--dark-blue);
+    /*padding-left: 200px;*/
+}
+
+.colorr{
+    color: white;
+}
+
+
+.margen{
+        padding-left: 150px;
+        margin-right: 250px;
+}
+
+#yo{
+    border-radius: 20px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+
+.boton {
+    margin-left: 150px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: var(--dark-blue);
+    color: white;
+    background-color: var(--dark-blue);
+    width: 175px;
+    height: 30px;
+    font-size: 10px;
+}
+
+#instaicon {
+    margin-left: 150px;
+    padding-top: 3px;
+}
+
+.tama {
+    height: 20px;
+    width: 20px;
+    position:relative;
+    padding-right: 3px;
+}
+
+.iconos {
+    height: 35px;
+    width: 35px;
+    border-style: solid;
+    border-radius: 10%;
+    border-color: var(--dark-blue);
+}
+
+#foot{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.log {
+    padding-left: 150px;
+    padding-right: 100px;
+}
+
+
+/*h3 {
+    padding-left: 200px;
+}*/
+
+/*li{
+    display: inline;
+}*/
+
+
+
+
+
+/*.about-me {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }*/
